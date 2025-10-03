@@ -4,10 +4,10 @@
 
 
  
-🔎 You can find my projects here [portfolio]
-🔭 I'm currently on the job hunt to fund my My Melody collection!.
+🔎 You can find my projects here [portfolio] <br>
+🔭 I'm currently on the job hunt to fund my My Melody collection!.<br>
 🧸 Currently upskilling in Python, as it wasn't covered in my university curriculum.<br>
-🎓 Graduated from Rajamangala University of Technology Rattanakosin (RMUTR) with a Bachelor's Degree in Computer Engineering.
+🎓 Graduated from Rajamangala University of Technology Rattanakosin (RMUTR) with a Bachelor's Degree in Computer Engineering.<br>
 
 ``` javascript
 🐢My journey to graduation wasn't typical: it took me eight years to complete my degree.
