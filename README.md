@@ -8,6 +8,7 @@
 🔭 I'm currently on the job hunt to fund my My Melody collection!.<br>
 🧸 Currently upskilling in Python, as it wasn't covered in my university curriculum.<br>
 🎓 Graduated from Rajamangala University of Technology Rattanakosin (RMUTR) with a Bachelor's Degree in Computer Engineering.<br>
+👩‍💻 Internship in Year 3 : Sony Device Technology (Thailand) Co., Ltd. Assistant Programmer position (😎Very proud, learned a lot, very lonely training alone🥺) Developed a maintenance system from the previous generation.**It was very difficult for students who were just in their third year and didn't know how to use different coding languages ​​together or what each language could do.😭 The first day of the internship was very stressful because students from other universities were already in their fourth year. But it was a very good memory🥰, I will never forget it. I gained more knowledge and understanding than when I was studying at university. <br>
 
 ``` javascript
 🐢My journey to graduation wasn't typical: it took me eight years to complete my degree.
